@@ -23,6 +23,7 @@ const styles = theme => ({
         display: 'flex',
         flexDirection: 'column',
         zIndex: 1,
+        height: '100vh',
         minHeight: '100vh',
         backgroundColor: theme.palette.background.default,
         position: 'relative',
